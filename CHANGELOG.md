@@ -1,5 +1,23 @@
 # Changelog
 
+## 4.21.0 (2023-12-04)
+
+Full Changelog: [v4.20.1...v4.21.0](https://github.com/openai/openai-node/compare/v4.20.1...v4.21.0)
+
+### Features
+
+* **client:** support reading the base url from an env variable ([#547](https://github.com/openai/openai-node/issues/547)) ([06fb68d](https://github.com/openai/openai-node/commit/06fb68de1ff80983e349b6715d1037e2072c8dd4))
+
+
+### Bug Fixes
+
+* prevent 400 when using runTools/runFunctions with Azure OpenAI API ([#544](https://github.com/openai/openai-node/issues/544)) ([735d9b8](https://github.com/openai/openai-node/commit/735d9b86acdc067e1ee6ebe1ea50de2955431050))
+
+
+### Documentation
+
+* **readme:** update example snippets ([#546](https://github.com/openai/openai-node/issues/546)) ([566d290](https://github.com/openai/openai-node/commit/566d290006920f536788bb77f4d24a6906e2971f))
+
 ## 4.20.1 (2023-11-24)
 
 Full Changelog: [v4.20.0...v4.20.1](https://github.com/openai/openai-node/compare/v4.20.0...v4.20.1)
